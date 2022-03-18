@@ -1,0 +1,18 @@
+{
+  "name": "hazi_feladat",
+  "version": "0.0.1",
+  "description": "homework_jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "rekalaca",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "jest": "^27.5.1",
+    "nodemon": "^2.0.15"
+  }
+}
